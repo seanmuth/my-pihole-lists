@@ -1,2 +1,9 @@
-id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1585426667,1593348722,Default,1609016914
+id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1640977078,1640977078,"Migrated from /etc/pihole/adlists.list",1640977082,100619,0,2
+2,https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt,1,1640977378,1640977378,"Blocklist Ads",1641065142,154541,0,2
+3,https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt,1,1640977401,1640977401,"Blocklist Malware",1641065158,435329,0,2
+4,https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt,1,1640977417,1640977417,"Blocklist Phishing",1641065165,190229,7,2
+5,https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt,1,1640977433,1640977433,"Blocklist Ransomware",1641065166,1904,0,2
+6,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt,1,1641066785,1641066785,,1641066830,40200,0,1
+7,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts,1,1641066785,1641066785,,1641066831,57,0,1
+8,https://v.firebog.net/hosts/static/w3kbl.txt,1,1641066785,1641066785,,1641066832,357,0,1
